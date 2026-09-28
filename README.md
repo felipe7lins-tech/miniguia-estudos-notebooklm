@@ -204,4 +204,4 @@ Copie, troque o que está entre `[colchetes]` e use no NotebookLM:
 
 ---
 
-**Autor:** `[seu nome]` · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+**Autor:** Felipe
